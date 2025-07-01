@@ -2,7 +2,7 @@
 git clone https://github.com/EvoX1446/evox-website.git
 
 # Перемещаем файлы сайта в папку репозитория
-cp -r C:\Users\Block.DESKTOP-KEHBADK\OneDrive\Desktop\EvoX Corporation* evox-website/
+cp C:\Users\Block.DESKTOP-KEHBADK\OneDrive\Desktop\EvoX Corporation* evox-website/
 
 # Заливаем на GitHub
 cd evox-website
